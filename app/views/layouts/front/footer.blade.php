@@ -7,7 +7,7 @@
             <div class="col-md-6 col-sm-6">
                 <div class="fh5co-footer-widget">
                     <h2 class="fh5co-footer-logo">LaraSCI</h2>
-                    <p>An example project to illustrate the use of Laravel. Find source code at https://github.com/skldf/larasci</p>
+                    <p>An example project to illustrate the use of Laravel. Find source code at https://github.com/sci-talents/larasci</p>
                 </div>
                 <div class="fh5co-footer-widget">
                     <ul class="fh5co-social">
