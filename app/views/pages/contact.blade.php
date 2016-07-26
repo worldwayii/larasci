@@ -46,7 +46,7 @@
                 <div class="col-md-12">
                     <div class="form-group">
                         <label for="name" class="sr-only">Name</label>
-                        <input placeholder="Please enter your full name" name="full_name" type="fullname" class="form-control input-lg">
+                        <input placeholder="Please enter your full name" name="fullname" type="fullname" class="form-control input-lg">
                     </div>	
                 </div>
                 <div class="col-md-12">
